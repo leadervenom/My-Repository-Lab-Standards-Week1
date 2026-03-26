@@ -8,6 +8,6 @@ I did not submit every commit by task some commits were submitted together with 
 I accidentally did the styled version of the website first then only did I stripped out all of the styling and made only skeleton for the lab as per lecturer's advice  
 
 # Branches
-main - The main branch which will get merged later in the end 
-master - branch used for building code skeleton
-styled = branch used for building code styling
+main - The main branch which will get merged later in the end <br>
+master - branch used for building code skeleton <br>
+styled = branch used for building code styling <br>
